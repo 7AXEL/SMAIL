@@ -1,6 +1,6 @@
 <!-- SMAIL -->
 <p align='center'>
-  <img src="https://github.com/7AXEL/IPEG/blob/main/img/logo.png"></img>
+  <img src="https://github.com/7AXEL/SMAIL/blob/main/img/logo.png"></img>
 </p>
 <p align='center'>
     <img src="https://img.shields.io/badge/SMAIL-bg?style=for-the-badge;"></img>

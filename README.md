@@ -20,7 +20,7 @@
 - This tool allow you to make spam attack on any email you want
 - to use it just write the email adress you want to spam it and the spam message and then press enter to start the spamming process 
 - to stop the tool press Ctrl + C two times
-- this tool have an antibot detection mecanizme
+- this tool have an antibot-detection mecanizme
 #### INSTALLATION
 - **`Windows`**
 - > **`1`** download and install git for window from the original git website <a href='https://gitforwindows.org/'>download</a>
